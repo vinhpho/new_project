@@ -6,9 +6,6 @@ Favorite Quote:
 -Eric S. Raymond
 <<<<<<< HEAD
 Location: Live in Arlington TX
-<<<<<<< HEAD
 Favorite Movie: BlackHawk Down
 =======
 >>>>>>> parent of 0fde6cb... Re-update aboutMe.txt again
-=======
->>>>>>> parent of 865a50a... Re-update favorite movie
