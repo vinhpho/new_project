@@ -1,0 +1,7 @@
+mkdir test
+touch index.html styles.css aboutMe.txt
+git add .
+git commit -m "update aboutMe.txt"
+git commit -m "added favorite movie to aboutMe.txt"
+git log
+git revert 
